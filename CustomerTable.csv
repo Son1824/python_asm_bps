@@ -1,0 +1,201 @@
+CustomerID,Name,Email,DateOfBirth,PhoneNumber,Address,City,State,ZipCode,Country
+1,Unknown,johndoe@gmail.com,2/15/1985,555-1234,123 Elm Street,New York,New York,10001,USA
+2,Jane Smith,janesmith@yahoo.com,6/20/1990,555-5678,456 Oak Street,Los Angeles,California,90001,USA
+3,Jim Brown,jimbrown@hotmail.com,11/30/1978,555-8765,789 Pine Street,Chicago,Illinois,60601,USA
+4,Emma White,emmawhite@gmail.com,4/12/1982,555-6543,321 Birch Avenue,Houston,Texas,77001,USA
+5,Michael Johnson,michaeljohnson@outlook.com,9/10/1995,555-2134,876 Maple Street,Philadelphia,Pennsylvania,19101,USA
+6,Linda Davis,lindadavis@gmail.com,7/25/1988,555-4521,678 Cedar Lane,Phoenix,Arizona,85001,USA
+7,Robert Brown,robertbrown@yahoo.com,11/11/1970,555-6789,543 Elm Street,San Antonio,Texas,78201,USA
+8,Patricia Miller,patriciamiller@fpt.edu.vn,1/14/1993,555-9876,987 Oak Avenue,San Diego,California,92101,USA
+9,Charles Wilson,charleswilson@hotmail.com,3/9/1980,555-3456,321 Pine Street,Dallas,Texas,75201,USA
+10,Elizabeth Jones,elizabethjones@gmail.com,10/2/1984,555-1245,567 Cedar Avenue,San Jose,California,95101,USA
+11,Mary Taylor,marytaylor@yahoo.com,5/19/1986,555-5432,123 Maple Street,Austin,Texas,78701,USA
+12,David Moore,davidmoore@outlook.com,7/23/1991,555-8764,456 Pine Avenue,San Francisco,California,94101,USA
+13,Richard Anderson,richardanderson@gmail.com,8/15/1977,555-3421,789 Birch Lane,Seattle,Washington,98101,USA
+14,Susan Thomas,susanthomas@hotmail.com,9/22/1983,555-5643,321 Oak Street,Boston,Massachusetts,2101,USA
+15,Christopher Jackson,christopherjackson@fpt.edu.vn,11/11/1992,555-7865,456 Elm Avenue,Denver,Colorado,80201,USA
+16,Patricia Martin,patriciamartin@gmail.com,12/25/1976,555-3412,789 Maple Lane,Washington DC,District of Columbia,20001,USA
+17,Anthony Harris,anthonyharris@yahoo.com,2/3/1989,555-6545,321 Birch Street,Miami,Florida,33101,USA
+18,Paul Martinez,paulmartinez@hotmail.com,3/12/1987,555-8790,456 Pine Street,Atlanta,Georgia,30301,USA
+19,Nancy Rodriguez,nancyrodriguez@outlook.com,5/27/1994,555-1298,789 Elm Avenue,Orlando,Florida,32801,USA
+20,Steven Lewis,stevenlewis@gmail.com,1/17/1981,555-9834,321 Oak Lane,New Orleans,Louisiana,70101,USA
+21,Robert Walker,robertwalker@yahoo.com,4/21/1979,555-6541,456 Pine Avenue,Nashville,Tennessee,37201,USA
+22,Lisa Hall,lisahall@fpt.edu.vn,6/30/1993,555-8912,789 Birch Street,Las Vegas,Nevada,89101,USA
+23,Kevin Allen,kevinallen@gmail.com,10/19/1990,555-5435,123 Maple Avenue,Portland,Oregon,97201,USA
+24,Dorothy Young,dorothyyoung@hotmail.com,11/28/1984,555-8742,456 Elm Lane,Sacramento,California,95801,USA
+25,Donna King,donnaking@gmail.com,1/4/1987,555-9867,789 Birch Avenue,San Antonio,Texas,78201,USA
+26,James Wright,jameswright@outlook.com,2/11/1983,555-7654,123 Pine Street,San Diego,California,92101,USA
+27,Sarah Scott,sarahscott@yahoo.com,8/18/1992,555-4321,456 Elm Lane,Los Angeles,California,90001,USA
+28,Barbara Green,barbaragreen@hotmail.com,12/9/1994,555-6758,789 Birch Avenue,San Francisco,California,94101,USA
+29,William Adams,williamadams@gmail.com,6/6/1980,555-4325,123 Maple Lane,Seattle,Washington,98101,USA
+30,George Parker,georgeparker@gmail.com,4/15/1985,555-3214,123 Cedar Street,Portland,Oregon,97201,USA
+31,Alice Turner,aliceturner@yahoo.com,12/30/1991,555-6542,456 Maple Avenue,Tampa,Florida,33601,USA
+32,Henry White,henrywhite@hotmail.com,3/25/1988,555-7891,789 Pine Street,Charlotte,North Carolina,28201,USA
+33,Karen Green,karengreen@gmail.com,7/22/1976,555-4326,321 Oak Lane,Baltimore,Maryland,21201,USA
+34,Daniel Hall,danielhall@outlook.com,1/30/1993,555-5671,456 Birch Street,Memphis,Tennessee,38101,USA
+35,Nancy Lewis,nancylewis@gmail.com,10/11/1982,555-8745,789 Elm Avenue,Columbus,Ohio,43201,USA
+36,Peter Young,peteryoung@yahoo.com,9/5/1979,555-6783,123 Cedar Lane,San Jose,California,95101,USA
+37,Deborah Baker,deborahbaker@hotmail.com,2/20/1990,555-2345,456 Pine Lane,Fort Worth,Texas,76101,USA
+38,James Perez,jamesperez@fpt.edu.vn,11/11/1981,555-8765,789 Maple Street,Detroit,Michigan,48201,USA
+39,Laura Adams,lauraadams@gmail.com,6/21/1987,555-1239,123 Elm Avenue,El Paso,Texas,79901,USA
+40,Robert Nelson,robertnelson@yahoo.com,4/30/1995,555-5679,456 Oak Lane,Nashville,Tennessee,37201,USA
+41,Rebecca Carter,rebeccacarter@hotmail.com,8/14/1980,555-8743,789 Pine Avenue,Milwaukee,Wisconsin,53201,USA
+42,Steven Mitchell,stevenmitchell@gmail.com,3/10/1983,555-2341,123 Cedar Street,Las Vegas,Nevada,89101,USA
+43,Emily Perez,emilyperez@outlook.com,12/5/1992,555-8762,456 Birch Avenue,Kansas City,Missouri,64101,USA
+44,Thomas Roberts,thomasroberts@gmail.com,7/25/1989,555-9871,789 Maple Lane,Atlanta,Georgia,30301,USA
+45,Jessica Lee,jessicalee@yahoo.com,6/19/1978,555-1236,123 Pine Avenue,Oklahoma City,Oklahoma,73101,USA
+46,Charles Hernandez,charleshernandez@hotmail.com,9/2/1991,555-5676,456 Elm Street,Albuquerque,New Mexico,87101,USA
+47,Patricia Clark,patriciaclark@fpt.edu.vn,5/14/1986,555-8741,789 Birch Lane,Long Beach,California,90801,USA
+48,Andrew Lewis,andrewlewis@gmail.com,11/3/1984,555-2347,123 Cedar Avenue,Virginia Beach,Virginia,23451,USA
+49,Karen Walker,karenwalker@yahoo.com,12/29/1987,555-9874,456 Maple Street,Omaha,Nebraska,68101,USA
+50,Donald Young,donaldyoung@hotmail.com,7/7/1980,555-8767,789 Oak Lane,Miami,Florida,33101,USA
+51,Mary Hill,maryhill@gmail.com,4/23/1990,555-1238,123 Pine Lane,Cleveland,Ohio,44101,USA
+52,Barbara King,barbaraking@outlook.com,10/19/1975,555-5673,456 Cedar Street,Oakland,California,94601,USA
+53,Joseph Scott,josephscott@gmail.com,1/17/1982,555-8749,789 Elm Lane,Minneapolis,Minnesota,55401,USA
+54,Jennifer Nelson,jennifernelson@yahoo.com,6/15/1989,555-2342,123 Birch Avenue,Tulsa,Oklahoma,74101,USA
+55,Paul Carter,paulcarter@hotmail.com,8/25/1994,555-9873,456 Pine Street,New Orleans,Louisiana,70101,USA
+56,Susan Perez,susanperez@fpt.edu.vn,2/22/1986,555-8768,789 Oak Avenue,Arlington,Texas,76001,USA
+57,Charles Collins,charlescollins@gmail.com,11/30/1977,555-1235,123 Maple Lane,Newark,New Jersey,7101,USA
+58,Patricia Stewart,patriciastewart@yahoo.com,7/12/1993,555-5672,456 Elm Avenue,Henderson,Nevada,89001,USA
+59,James Roberts,jamesroberts@hotmail.com,3/18/1981,555-8746,789 Birch Street,Cincinnati,Ohio,45201,USA
+60,Linda Ramirez,lindaramirez@gmail.com,9/10/1990,555-2344,123 Oak Avenue,Buffalo,New York,14201,USA
+61,Christopher Davis,christopherdavis@yahoo.com,2/24/1979,555-9872,456 Pine Lane,St. Louis,Missouri,63101,USA
+62,Sarah Martinez,sarahmartinez@fpt.edu.vn,10/15/1985,555-8769,789 Cedar Street,Pittsburgh,Pennsylvania,15201,USA
+63,David Anderson,davidanderson@gmail.com,5/28/1992,555-1237,123 Maple Avenue,Greensboro,North Carolina,27401,USA
+64,Jennifer Thompson,jenniferthompson@outlook.com,12/30/1988,555-5674,456 Elm Street,Plano,Texas,75001,USA
+65,William White,williamwhite@gmail.com,8/5/1983,555-8748,789 Pine Avenue,Lincoln,Nebraska,68501,USA
+66,Jessica Lewis,jessicalewis@yahoo.com,7/14/1981,555-2343,123 Cedar Lane,Anchorage,Alaska,99501,USA
+67,Anthony Harris,anthonyharris@hotmail.com,11/20/1994,555-9870,456 Maple Street,Lubbock,Texas,79401,USA
+68,Mary Clark,maryclark@fpt.edu.vn,9/29/1987,555-8760,789 Birch Avenue,Baton Rouge,Louisiana,70801,USA
+69,Joseph Young,josephyoung@gmail.com,1/1/1980,555-1230,123 Pine Street,Reno,Nevada,89501,USA
+70,Linda Martinez,lindamartinez@yahoo.com,4/18/1978,555-5677,456 Oak Avenue,Chandler,Arizona,85201,USA
+71,Robert Walker,robertwalker@hotmail.com,8/17/1991,555-8747,789 Cedar Street,Scottsdale,Arizona,85251,USA
+72,Susan Green,susangreen@fpt.edu.vn,2/13/1983,555-8761,123 Elm Avenue,Chesapeake,Virginia,23320,USA
+73,John King,johnking@gmail.com,6/30/1995,555-1239,456 Maple Lane,North Las Vegas,Nevada,89030,USA
+74,Karen Martinez,karenmartinez@outlook.com,3/14/1976,555-5678,789 Pine Street,Irvine,California,92602,USA
+75,Steven White,stevenwhite@gmail.com,11/11/1984,555-8740,123 Cedar Lane,Fremont,California,94536,USA
+76,Patricia Johnson,patriciajohnson@yahoo.com,8/22/1982,555-8762,456 Oak Avenue,Garland,Texas,75040,USA
+77,George Harris,georgeharris@hotmail.com,5/24/1990,555-2349,789 Pine Lane,Hialeah,Florida,33010,USA
+78,Jessica Allen,jessicaallen@fpt.edu.vn,3/31/1987,555-9875,123 Birch Avenue,Richmond,Virginia,23220,USA
+79,Daniel Robinson,danielrobinson@gmail.com,12/16/1985,555-6780,456 Elm Street,Boise,Idaho,83701,USA
+80,Kimberly Scott,kimberlyscott@yahoo.com,1/29/1993,555-7654,789 Maple Lane,Spokane,Washington,99201,USA
+81,James Perez,jamesperez@hotmail.com,7/18/1992,555-4321,123 Oak Lane,Irving,Texas,75060,USA
+82,Amy Anderson,amyanderson@gmail.com,9/19/1983,555-9876,456 Birch Street,Durham,North Carolina,27701,USA
+83,William Taylor,williamtaylor@yahoo.com,12/5/1977,555-6548,789 Pine Avenue,Chula Vista,California,91910,USA
+84,Jennifer Lewis,jenniferlewis@hotmail.com,10/14/1990,555-3456,123 Elm Lane,Toledo,Ohio,43601,USA
+85,David Brown,davidbrown@fpt.edu.vn,6/11/1984,555-1234,456 Cedar Street,Fort Wayne,Indiana,46801,USA
+86,Nancy Wilson,nancywilson@gmail.com,2/16/1987,555-5679,789 Maple Avenue,Jersey City,New Jersey,7302,USA
+87,Barbara Martinez,barbaramartinez@yahoo.com,11/24/1981,555-4323,123 Oak Avenue,St. Petersburg,Florida,33701,USA
+88,Thomas Anderson,thomasanderson@hotmail.com,9/11/1994,555-8764,456 Elm Lane,Orlando,Florida,32801,USA
+89,Sarah Thomas,sarahthomas@outlook.com,7/20/1982,555-9871,789 Cedar Street,Norfolk,Virginia,23502,USA
+90,Daniel Martinez,danielmartinez@gmail.com,8/30/1991,555-7654,123 Pine Avenue,Chandler,Arizona,85225,USA
+91,Patricia Brown,patriciabrown@fpt.edu.vn,4/14/1978,555-4327,456 Oak Lane,Laredo,Texas,78040,USA
+92,Christopher White,christopherwhite@gmail.com,11/17/1986,555-9873,789 Birch Street,Madison,Wisconsin,53701,USA
+93,Jennifer Clark,jenniferclark@yahoo.com,1/23/1989,555-1236,123 Elm Avenue,Gilbert,Arizona,85234,USA
+94,Anthony Lewis,anthonylewis@hotmail.com,6/28/1993,555-8765,456 Maple Street,Glendale,Arizona,85301,USA
+95,Susan Harris,susanharris@outlook.com,3/6/1980,555-7651,789 Oak Avenue,Reno,Nevada,89501,USA
+96,Joseph Martinez,josephmartinez@gmail.com,12/1/1976,555-4329,123 Pine Lane,Irving,Texas,75060,USA
+97,Mary Robinson,maryrobinson@yahoo.com,5/15/1992,555-9874,456 Cedar Street,Huntington Beach,California,92646,USA
+98,Linda White,lindawhite@hotmail.com,7/7/1984,555-7653,789 Birch Avenue,Montgomery,Alabama,36101,USA
+99,Michael Allen,michaelallen@fpt.edu.vn,9/21/1987,555-8766,123 Oak Street,Baton Rouge,Louisiana,70801,USA
+100,Karen Martinez,karenmartinez@gmail.com,2/27/1991,555-6547,456 Pine Lane,Rochester,New York,14602,USA
+101,William Moore,williammoore@yahoo.com,12/12/1985,555-8762,789 Elm Avenue,Yonkers,New York,10701,USA
+102,Elizabeth Jackson,elizabethjackson@hotmail.com,4/17/1989,555-1234,123 Cedar Avenue,Jacksonville,Florida,32201,USA
+103,Charles Lewis,charleslewis@outlook.com,7/25/1990,555-4321,456 Maple Street,Chesapeake,Virginia,23320,USA
+104,Susan Wilson,susanwilson@gmail.com,6/14/1977,555-9875,789 Oak Lane,Spokane,Washington,99201,USA
+105,Andrew Young,andrewyoung@yahoo.com,9/27/1988,555-7652,123 Pine Avenue,Frisco,Texas,75034,USA
+106,Laura White,laurawhite@hotmail.com,10/12/1982,555-4325,456 Elm Street,Des Moines,Iowa,50301,USA
+107,Michael Robinson,michaelrobinson@fpt.edu.vn,8/23/1994,555-8763,789 Cedar Lane,Augusta,Georgia,30901,USA
+108,Jessica Anderson,jessicaanderson@gmail.com,5/18/1981,555-7656,123 Oak Avenue,Louisville,Kentucky,40201,USA
+109,David Harris,davidharris@yahoo.com,11/19/1990,555-1238,456 Birch Street,Fresno,California,93701,USA
+110,Emily Martinez,emilymartinez@hotmail.com,12/7/1986,555-9877,789 Pine Avenue,Sacramento,California,95814,USA
+111,Robert Clark,robertclark@outlook.com,8/29/1987,555-4326,123 Cedar Street,Peoria,Illinois,61602,USA
+112,Charles Scott,charlesscott@gmail.com,1/16/1980,555-8768,456 Elm Lane,Springfield,Missouri,65801,USA
+113,Mary Adams,maryadams@yahoo.com,10/10/1991,555-9879,789 Maple Avenue,Fort Lauderdale,Florida,33301,USA
+114,Patricia Perez,patriciaperez@hotmail.com,4/4/1983,555-7654,123 Pine Lane,Sioux Falls,South Dakota,57101,USA
+115,David Lee,davidlee@gmail.com,7/25/1978,555-4327,456 Oak Avenue,Pasadena,California,91101,USA
+116,Linda Brown,lindabrown@fpt.edu.vn,3/31/1992,555-8769,789 Birch Street,Huntsville,Alabama,35801,USA
+117,James Harris,jamesharris@gmail.com,2/11/1985,555-1239,123 Elm Avenue,Oceanside,California,92054,USA
+118,Susan Anderson,susananderson@yahoo.com,11/28/1989,555-7657,456 Cedar Street,McKinney,Texas,75069,USA
+119,Michael Martinez,michaelmartinez@hotmail.com,6/20/1993,555-9878,789 Oak Lane,Killeen,Texas,76541,USA
+120,Patricia Taylor,patriciataylor@outlook.com,5/26/1986,555-4328,123 Pine Street,Clarksville,Tennessee,37040,USA
+121,Joseph Jackson,josephjackson@gmail.com,9/15/1990,555-8760,456 Elm Lane,Little Rock,Arkansas,72201,USA
+122,Laura Young,laurayoung@yahoo.com,3/2/1979,555-7650,789 Cedar Avenue,Anaheim,California,92801,USA
+123,Andrew Harris,andrewharris@hotmail.com,7/11/1994,555-9870,123 Oak Lane,Overland Park,Kansas,66204,USA
+124,Susan Lewis,susanlewis@fpt.edu.vn,8/21/1981,555-4320,456 Maple Street,Tempe,Arizona,85281,USA
+125,Christopher White,christopherwhite@gmail.com,4/18/1987,555-8761,789 Pine Avenue,Thornton,Colorado,80229,USA
+126,Daniel Young,danielyoung@yahoo.com,1/9/1992,555-7659,123 Cedar Lane,Allentown,Pennsylvania,18101,USA
+127,Nancy Martinez,nancymartinez@hotmail.com,2/7/1984,555-9874,456 Elm Street,West Valley City,Utah,84119,USA
+128,David Taylor,davidtaylor@gmail.com,11/4/1988,555-1231,789 Birch Lane,Inglewood,California,90301,USA
+129,Michael Harris,michaelharris@outlook.com,5/22/1980,555-7651,123 Pine Avenue,Abilene,Texas,79601,USA
+130,Jennifer Scott,jenniferscott@gmail.com,8/18/1987,555-1232,456 Oak Avenue,Amarillo,Texas,79101,USA
+131,Robert White,robertwhite@yahoo.com,6/14/1991,555-7655,789 Maple Street,Columbus,Georgia,31901,USA
+132,Patricia Harris,patriciaharris@hotmail.com,12/19/1983,555-9872,123 Cedar Lane,Grand Rapids,Michigan,49501,USA
+133,Michael Clark,michaelclark@outlook.com,3/22/1989,555-8763,456 Pine Avenue,Salt Lake City,Utah,84101,USA
+134,James Martinez,jamesmartinez@gmail.com,11/17/1992,555-4323,789 Elm Lane,Shreveport,Louisiana,71101,USA
+135,Linda Lee,lindalee@fpt.edu.vn,9/15/1984,555-7658,123 Birch Street,Tallahassee,Florida,32301,USA
+136,Susan Jackson,susanjackson@gmail.com,10/22/1978,555-9873,456 Oak Lane,Mobile,Alabama,36601,USA
+137,Daniel White,danielwhite@yahoo.com,5/8/1987,555-8766,789 Pine Avenue,Huntsville,Alabama,35801,USA
+138,Joseph Harris,josephharris@hotmail.com,8/24/1990,555-4324,123 Elm Street,Knoxville,Tennessee,37901,USA
+139,Barbara Martinez,barbaramartinez@outlook.com,4/12/1981,555-7653,456 Cedar Avenue,Baton Rouge,Louisiana,70801,USA
+140,Michael Moore,michaelmoore@gmail.com,9/7/1989,555-9875,789 Oak Lane,Chattanooga,Tennessee,37401,USA
+141,Jennifer Taylor,jennifertaylor@yahoo.com,6/26/1983,555-8769,123 Birch Avenue,Springfield,Illinois,62701,USA
+142,David Lewis,davidlewis@hotmail.com,12/13/1991,555-4321,456 Pine Lane,Sioux Falls,South Dakota,57101,USA
+143,Patricia Robinson,patriciarobinson@fpt.edu.vn,11/23/1986,555-7650,789 Elm Street,Rockford,Illinois,61101,USA
+144,Andrew Wilson,andrewwilson@gmail.com,5/16/1994,555-9876,123 Oak Avenue,Salem,Oregon,97301,USA
+145,Linda Scott,lindascott@yahoo.com,1/30/1979,555-8764,456 Maple Lane,Port St. Lucie,Florida,34952,USA
+146,Michael Anderson,michaelanderson@hotmail.com,7/3/1987,555-4322,789 Pine Avenue,Lansing,Michigan,48901,USA
+147,David Johnson,davidjohnson@outlook.com,3/15/1983,555-7657,123 Elm Lane,Dayton,Ohio,45401,USA
+148,Susan White,susanwhite@gmail.com,2/26/1990,555-9877,456 Cedar Street,Newport News,Virginia,23601,USA
+149,Joseph Davis,josephdavis@yahoo.com,10/19/1992,555-8760,789 Oak Avenue,Bakersfield,California,93301,USA
+150,Laura Martinez,lauramartinez@hotmail.com,6/22/1986,555-4329,123 Pine Lane,Providence,Rhode Island,2901,USA
+151,William Clark,williamclark@gmail.com,7/30/1993,555-7652,456 Elm Avenue,Birmingham,Alabama,35201,USA
+152,Jennifer Harris,jenniferharris@fpt.edu.vn,9/1/1981,555-9870,789 Birch Street,Modesto,California,95350,USA
+153,Michael Lewis,michaellewis@yahoo.com,11/14/1989,555-8762,123 Oak Avenue,Little Rock,Arkansas,72201,USA
+154,Patricia Allen,patriciaallen@hotmail.com,8/27/1984,555-4328,456 Pine Street,Augusta,Georgia,30901,USA
+155,Robert Walker,robertwalker@outlook.com,5/10/1991,555-7656,789 Elm Lane,Portsmouth,Virginia,23701,USA
+156,Linda Martinez,lindamartinez@gmail.com,3/5/1987,555-9874,123 Cedar Avenue,Fort Lauderdale,Florida,33301,USA
+157,Daniel Brown,danielbrown@yahoo.com,12/18/1978,555-8768,456 Oak Lane,Tempe,Arizona,85281,USA
+158,Michael Wilson,michaelwilson@hotmail.com,1/29/1992,555-4327,789 Pine Avenue,Oceanside,California,92054,USA
+159,Patricia Davis,patriciadavis@fpt.edu.vn,4/10/1985,555-7654,123 Elm Lane,Ontario,California,91761,USA
+160,David Martinez,davidmartinez@gmail.com,9/12/1990,555-9879,456 Cedar Street,Chattanooga,Tennessee,37401,USA
+161,Susan Clark,susanclark@yahoo.com,6/25/1984,555-8765,789 Oak Avenue,Amarillo,Texas,79101,USA
+162,James Taylor,jamestaylor@hotmail.com,12/30/1993,555-4320,123 Pine Lane,Arvada,Colorado,80001,USA
+163,Michael Johnson,michaeljohnson@outlook.com,3/18/1980,555-7651,456 Elm Avenue,Davenport,Iowa,52801,USA
+164,Patricia Harris,patriciaharris@gmail.com,5/19/1992,555-9876,789 Cedar Street,Thornton,Colorado,80229,USA
+165,Robert Lewis,robertlewis@yahoo.com,1/11/1983,555-8767,123 Oak Avenue,Abilene,Texas,79601,USA
+166,Linda Scott,lindascott@hotmail.com,10/23/1989,555-4322,456 Pine Street,Evansville,Indiana,47701,USA
+167,Andrew Martinez,andrewmartinez@fpt.edu.vn,7/22/1994,555-7658,789 Elm Lane,Provo,Utah,84601,USA
+168,David White,davidwhite@gmail.com,9/4/1985,555-9878,123 Cedar Avenue,Peoria,Illinois,61602,USA
+169,Jennifer Brown,jenniferbrown@yahoo.com,2/11/1990,555-8769,456 Oak Lane,Vallejo,California,94589,USA
+170,Michael Harris,michaelharris@hotmail.com,11/16/1981,555-4325,789 Maple Street,Beaumont,Texas,77701,USA
+171,Patricia Wilson,patriciawilson@outlook.com,4/5/1992,555-7653,123 Pine Lane,Independence,Missouri,64050,USA
+172,James Johnson,jamesjohnson@gmail.com,7/20/1987,555-9870,456 Elm Avenue,Santa Clara,California,95050,USA
+173,Robert Martinez,robertmartinez@yahoo.com,12/24/1978,555-8761,789 Cedar Street,Clarksville,Tennessee,37040,USA
+174,Michael Davis,michaeldavis@hotmail.com,3/30/1983,555-4326,123 Oak Avenue,Elk Grove,California,95757,USA
+175,Linda Taylor,lindataylor@fpt.edu.vn,9/26/1990,555-7652,456 Maple Lane,Palmdale,California,93550,USA
+176,Jennifer White,jenniferwhite@gmail.com,1/27/1985,555-9872,789 Elm Street,Hollywood,Florida,33019,USA
+177,Andrew Johnson,andrewjohnson@yahoo.com,11/7/1989,555-8763,123 Cedar Avenue,Salinas,California,93901,USA
+178,Patricia Lewis,patricialewis@hotmail.com,6/2/1991,555-4324,456 Pine Lane,Hampton,Virginia,23666,USA
+179,David Walker,davidwalker@outlook.com,8/14/1984,555-7659,789 Oak Lane,Pasadena,Texas,77501,USA
+180,Susan Martinez,susanmartinez@gmail.com,12/23/1992,555-9875,123 Elm Lane,Lakewood,Colorado,80226,USA
+181,Joseph Anderson,josephanderson@yahoo.com,5/21/1987,555-8767,456 Cedar Street,Paterson,New Jersey,7501,USA
+182,Linda Brown,lindabrown@hotmail.com,10/28/1983,555-4328,789 Maple Avenue,Alexandria,Virginia,22301,USA
+183,David Martinez,davidmartinez@fpt.edu.vn,1/17/1990,555-9879,123 Oak Lane,Hayward,California,94541,USA
+184,Michael Johnson,michaeljohnson@gmail.com,11/24/1985,555-8760,456 Cedar Street,Corona,California,92879,USA
+185,Patricia Harris,patriciaharris@yahoo.com,4/9/1989,555-4321,789 Pine Lane,Murfreesboro,Tennessee,37129,USA
+186,Robert Lee,robertlee@hotmail.com,7/18/1992,555-7655,123 Elm Avenue,Bridgeport,Connecticut,6601,USA
+187,Linda Taylor,lindataylor@outlook.com,12/19/1984,555-9873,456 Oak Street,Sunnyvale,California,94086,USA
+188,Andrew Wilson,andrewwilson@gmail.com,3/22/1987,555-8762,789 Maple Lane,Escondido,California,92025,USA
+189,Jennifer Brown,jenniferbrown@yahoo.com,8/24/1991,555-4324,123 Cedar Street,Killeen,Texas,76541,USA
+190,Michael White,michaelwhite@hotmail.com,5/12/1983,555-7654,456 Elm Avenue,Sterling Heights,Michigan,48310,USA
+191,David Clark,davidclark@fpt.edu.vn,12/19/1990,555-9876,789 Oak Lane,Simi Valley,California,93063,USA
+192,Susan Johnson,susanjohnson@gmail.com,7/26/1987,555-8769,123 Pine Street,Charleston,South Carolina,29401,USA
+193,Robert Davis,robertdavis@yahoo.com,10/3/1982,555-4329,456 Cedar Avenue,Visalia,California,93277,USA
+194,Linda Martinez,lindamartinez@hotmail.com,2/15/1992,555-7658,789 Elm Lane,Concord,California,94518,USA
+195,James Taylor,jamestaylor@gmail.com,8/22/1985,555-9870,123 Oak Avenue,Hartford,Connecticut,6101,USA
+196,Michael Harris,michaelharris@fpt.edu.vn,5/19/1991,555-8761,456 Pine Lane,El Monte,California,91731,USA
+197,Patricia Wilson,patriciawilson@yahoo.com,1/6/1988,555-4326,789 Cedar Street,Victorville,California,92392,USA
+198,David White,davidwhite@outlook.com,9/14/1980,555-7652,123 Elm Lane,Stamford,Connecticut,6901,USA
+199,Jennifer Martinez,jennifermartinez@gmail.com,6/11/1993,555-9872,456 Oak Lane,Thousand Oaks,California,91360,USA
+200,Andrew Clark,andrewclark@hotmail.com,11/18/1984,555-8765,789 Maple Avenue,Bellevue,Washington,98004,USA

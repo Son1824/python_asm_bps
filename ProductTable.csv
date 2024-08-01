@@ -1,0 +1,61 @@
+ProductID,ProductName,CategoryID,Price,StockQuantity,Supplier,WarrantyPeriod,Dimensions,Weight
+1,Smartphone,1,500,50,Supplier A,2 years,5x3x0.5 in,0.4 lbs
+2,Laptop,2,1000,30,Supplier B,1 year,13x9x0.6 in,3 lbs
+3,Tablet,3,300,100,Supplier C,2 years,8x5x0.3 in,0.8 lbs
+4,Smartwatch,1,200,150,Supplier D,1 year,1.5x1.5x0.4 in,0.1 lbs
+5,Camera,4,700,25,Supplier E,3 years,4x3x2.5 in,0.9 lbs
+6,Monitor,9,250,75,Supplier F,2 years,24x14x2 in,5.5 lbs
+7,Keyboard,8,50,200,Supplier G,1 year,18x5x1 in,1 lbs
+8,Mouse,8,30,300,Supplier H,1 year,4x2x1.5 in,0.2 lbs
+9,Printer,6,150,40,Supplier I,2 years,18x12x6 in,12 lbs
+10,Router,4,100,60,Supplier J,1 year,10x6x2 in,1.5 lbs
+11,Headphones,7,80,120,Supplier K,2 years,6x7x3 in,0.5 lbs
+12,Speaker,7,150,80,Supplier L,1 year,8x8x6 in,2 lbs
+13,External Hard Drive,5,100,90,Supplier M,3 years,5x3x0.5 in,0.4 lbs
+14,Webcam,4,70,110,Supplier N,1 year,2x2x2 in,0.3 lbs
+15,Microphone,7,120,75,Supplier O,2 years,6x2x2 in,0.7 lbs
+16,Charger,5,25,250,Supplier P,1 year,2x2x1 in,0.1 lbs
+17,USB Cable,5,10,300,Supplier Q,1 year,5x0.5x0.5 in,0.05 lbs
+18,Power Bank,5,50,140,Supplier R,2 years,3x2x0.5 in,0.3 lbs
+19,Game Console,10,400,40,Supplier S,2 years,10x8x2 in,3 lbs
+20,Projector,6,600,35,Supplier T,3 years,12x9x4 in,4 lbs
+21,VR Headset,10,300,55,Supplier U,2 years,8x8x4 in,1.2 lbs
+22,Graphics Card,10,800,20,Supplier V,3 years,10x4x1 in,2 lbs
+23,CPU,10,350,25,Supplier W,2 years,4x4x1 in,0.6 lbs
+24,Motherboard,10,200,30,Supplier X,2 years,12x10x2 in,1.5 lbs
+25,RAM,10,100,100,Supplier Y,2 years,6x2x0.5 in,0.2 lbs
+26,SSD,5,150,90,Supplier Z,3 years,4x3x0.5 in,0.1 lbs
+27,HDD,5,75,80,Supplier AA,3 years,4x3x1 in,0.5 lbs
+28,Power Supply,5,100,50,Supplier AB,2 years,6x5x3 in,2 lbs
+29,Cooling Fan,5,30,120,Supplier AC,1 year,4x4x1 in,0.3 lbs
+30,Case,5,70,40,Supplier AD,2 years,20x18x8 in,10 lbs
+31,Bluetooth Speaker,7,80,70,Supplier AE,1 year,7x4x4 in,1 lbs
+32,Earbuds,7,60,150,Supplier AF,1 year,1x1x1 in,0.05 lbs
+33,Smart Light,10,40,60,Supplier AG,2 years,6x3x3 in,0.2 lbs
+34,Smart Thermostat,10,100,50,Supplier AH,2 years,4x4x1 in,0.5 lbs
+35,Security Camera,4,150,30,Supplier AI,3 years,3x3x3 in,0.7 lbs
+36,Drone,10,800,20,Supplier AJ,2 years,12x12x4 in,1.5 lbs
+37,3D Printer,10,1000,15,Supplier AK,3 years,15x15x15 in,20 lbs
+38,WiFi Extender,4,40,80,Supplier AL,1 year,6x3x2 in,0.3 lbs
+39,Portable Monitor,6,200,25,Supplier AM,2 years,15x9x0.5 in,2 lbs
+40,Docking Station,6,120,35,Supplier AN,2 years,6x3x1 in,0.6 lbs
+41,USB Hub,5,30,60,Supplier AO,1 year,3x2x1 in,0.1 lbs
+42,HDMI Cable,5,15,200,Supplier AP,1 year,6x0.5x0.5 in,0.1 lbs
+43,Tripod,6,50,70,Supplier AQ,2 years,20x3x3 in,1 lbs
+44,Flash Drive,5,20,300,Supplier AR,3 years,2x1x0.5 in,0.05 lbs
+45,Memory Card,5,25,200,Supplier AS,3 years,1x1x0.1 in,0.01 lbs
+46,Action Camera,4,200,40,Supplier AT,2 years,2x2x1 in,0.2 lbs
+47,Digital Frame,6,120,30,Supplier AU,1 year,8x6x1 in,1 lbs
+48,Video Doorbell,4,150,25,Supplier AV,2 years,5x2x1 in,0.4 lbs
+49,Smart Plug,10,30,100,Supplier AW,1 year,3x2x2 in,0.2 lbs
+50,Robot Vacuum,10,300,20,Supplier AX,2 years,14x14x3.5 in,8 lbs
+51,Electric Toothbrush,10,50,70,Supplier AY,2 years,9x1x1 in,0.2 lbs
+52,Hair Dryer,10,60,60,Supplier AZ,1 year,10x8x4 in,1.5 lbs
+53,Blender,10,80,50,Supplier BA,1 year,14x8x6 in,5 lbs
+54,Coffee Maker,10,100,40,Supplier BB,2 years,12x10x8 in,6 lbs
+55,Air Purifier,10,150,30,Supplier BC,3 years,20x10x10 in,7 lbs
+56,Electric Kettle,10,40,70,Supplier BD,2 years,9x6x6 in,2 lbs
+57,Toaster,10,30,60,Supplier BE,1 year,12x6x6 in,2.5 lbs
+58,Microwave,10,120,30,Supplier BF,3 years,18x14x12 in,25 lbs
+59,Refrigerator,10,800,20,Supplier BG,5 years,70x36x30 in,200 lbs
+60,Washing Machine,10,500,15,Supplier BH,3 years,40x30x30 in,150 lbs

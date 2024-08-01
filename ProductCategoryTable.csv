@@ -1,0 +1,11 @@
+CategoryID,CategoryName,Description,CategoryManager,LaunchDate,ActiveStatus,NumberOfProducts,PopularityIndex
+1,Electronics,Electronic components and gadgets,John Doe,1/1/2023,Active,100,85
+2,Computers,Laptops and desktop computers,Jane Smith,2/15/2023,Active,50,78
+3,Accessories,Computer peripherals and accessories,Michael Johnson,3/10/2023,Active,80,70
+4,Networking,Network equipment and devices,Emma White,4/5/2023,Active,70,82
+5,Storage,Data storage solutions,Linda Davis,5/20/2023,Active,200,65
+6,Printers,Printing and scanning devices,Robert Brown,6/12/2023,Active,150,68
+7,Software,Software applications and tools,Patricia Miller,7/8/2023,Active,120,75
+8,Peripherals,Computer peripherals,Charles Wilson,8/25/2023,Active,300,60
+9,Monitors,Computer monitors,Elizabeth Jones,9/30/2023,Active,180,72
+10,Servers,Server hardware and solutions,Jim Brown,10/15/2023,Active,250,77

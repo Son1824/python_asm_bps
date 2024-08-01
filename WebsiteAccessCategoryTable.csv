@@ -1,0 +1,201 @@
+AccessID,CustomerID,Date,Time,PageViewed,Duration,DeviceType,Browser,OperatingSystem,ReferralSource
+1,1,1/1/2023,8:30,Landing Page,310,Mobile,Opera,Android,LinkedIn
+2,2,1/2/2023,9:45,Product Page,215,Desktop,Chrome,Windows,Yahoo
+3,3,1/3/2023,10:15,Cart,140,Tablet,Firefox,iOS,Email
+4,4,1/4/2023,11:30,Checkout,275,Mobile,Safari,iOS,Bing
+5,5,1/5/2023,12:00,Homepage,260,Desktop,Edge,MacOS,Facebook
+6,6,1/6/2023,13:45,Product Page,195,Tablet,Chrome,Android,Direct
+7,7,1/7/2023,14:15,Cart,160,Mobile,Firefox,Android,Google
+8,8,1/8/2023,15:00,Checkout,290,Desktop,Safari,Windows,Twitter
+9,9,1/9/2023,16:30,Landing Page,220,Tablet,Edge,iOS,Email
+10,10,1/10/2023,17:00,Homepage,300,Mobile,Chrome,Android,Bing
+11,11,1/11/2023,18:15,Product Page,245,Desktop,Opera,Windows,LinkedIn
+12,12,1/12/2023,19:30,Cart,200,Tablet,Safari,iOS,Direct
+13,13,1/13/2023,20:45,Checkout,180,Mobile,Firefox,Android,Facebook
+14,14,1/14/2023,21:00,Landing Page,275,Desktop,Chrome,MacOS,Google
+15,15,1/15/2023,22:15,Homepage,225,Tablet,Edge,Windows,Twitter
+16,16,1/16/2023,23:30,Product Page,240,Mobile,Opera,Android,Bing
+17,17,1/17/2023,8:00,Cart,250,Desktop,Firefox,iOS,LinkedIn
+18,18,1/18/2023,9:15,Checkout,260,Tablet,Safari,Android,Email
+19,19,1/19/2023,10:30,Landing Page,280,Mobile,Edge,Windows,Google
+20,20,1/20/2023,11:45,Homepage,230,Desktop,Chrome,MacOS,Facebook
+21,21,1/21/2023,12:00,Product Page,215,Tablet,Firefox,iOS,Yahoo
+22,22,1/22/2023,13:15,Cart,240,Mobile,Safari,Android,Twitter
+23,23,1/23/2023,14:30,Checkout,295,Desktop,Edge,Windows,LinkedIn
+24,24,1/24/2023,15:45,Landing Page,220,Tablet,Chrome,iOS,Direct
+25,25,1/25/2023,17:00,Homepage,250,Mobile,Firefox,Android,Bing
+26,26,1/26/2023,18:15,Product Page,235,Desktop,Safari,MacOS,Email
+27,27,1/27/2023,19:30,Cart,205,Tablet,Edge,Windows,Google
+28,28,1/28/2023,20:45,Checkout,175,Mobile,Opera,Android,Facebook
+29,29,1/29/2023,21:00,Landing Page,285,Desktop,Chrome,iOS,Yahoo
+30,30,1/30/2023,22:15,Homepage,225,Tablet,Firefox,Windows,Twitter
+31,31,1/31/2023,23:30,Product Page,245,Mobile,Safari,Android,LinkedIn
+32,32,2/1/2023,8:00,Cart,190,Desktop,Edge,MacOS,Email
+33,33,2/2/2023,9:15,Checkout,275,Tablet,Chrome,Windows,Google
+34,34,2/3/2023,10:30,Landing Page,225,Mobile,Firefox,iOS,Direct
+35,35,2/4/2023,11:45,Homepage,260,Desktop,Safari,Android,Bing
+36,36,2/5/2023,12:00,Product Page,210,Tablet,Edge,Windows,Yahoo
+37,37,2/6/2023,13:15,Cart,200,Mobile,Opera,MacOS,Twitter
+38,38,2/7/2023,14:30,Checkout,190,Desktop,Chrome,Android,LinkedIn
+39,39,2/8/2023,15:45,Landing Page,285,Tablet,Firefox,Windows,Facebook
+40,40,2/9/2023,17:00,Homepage,230,Mobile,Safari,iOS,Google
+41,41,2/10/2023,18:15,Product Page,220,Desktop,Edge,MacOS,Direct
+42,42,2/11/2023,19:30,Cart,260,Tablet,Chrome,Windows,Bing
+43,43,2/12/2023,20:45,Checkout,275,Mobile,Firefox,Android,Email
+44,44,2/13/2023,21:00,Landing Page,245,Desktop,Safari,Windows,Google
+45,45,2/14/2023,22:15,Homepage,195,Tablet,Edge,iOS,LinkedIn
+46,46,2/15/2023,23:30,Product Page,230,Mobile,Opera,MacOS,Twitter
+47,47,2/16/2023,8:00,Cart,250,Desktop,Chrome,Windows,Facebook
+48,48,2/17/2023,9:15,Checkout,190,Tablet,Firefox,Android,Yahoo
+49,49,2/18/2023,10:30,Landing Page,270,Mobile,Safari,Windows,Bing
+50,50,2/19/2023,11:45,Homepage,230,Desktop,Edge,iOS,Direct
+51,51,2/20/2023,12:00,Product Page,250,Tablet,Chrome,Android,Google
+52,52,2/21/2023,13:15,Cart,215,Mobile,Firefox,Windows,LinkedIn
+53,53,2/22/2023,14:30,Checkout,280,Desktop,Safari,MacOS,Email
+54,54,2/23/2023,15:45,Landing Page,200,Tablet,Edge,Windows,Twitter
+55,55,2/24/2023,17:00,Homepage,290,Mobile,Chrome,Android,Facebook
+56,56,2/25/2023,18:15,Product Page,215,Desktop,Firefox,Windows,Yahoo
+57,57,2/26/2023,19:30,Cart,205,Tablet,Safari,iOS,Google
+58,58,2/27/2023,20:45,Checkout,220,Mobile,Edge,MacOS,Direct
+59,59,2/28/2023,21:00,Landing Page,275,Desktop,Chrome,Windows,Bing
+60,60,3/1/2023,22:15,Homepage,230,Tablet,Firefox,Android,Email
+61,61,3/2/2023,23:30,Product Page,190,Mobile,Safari,Windows,LinkedIn
+62,62,3/3/2023,8:00,Cart,245,Desktop,Edge,iOS,Twitter
+63,63,3/4/2023,9:15,Checkout,215,Tablet,Chrome,MacOS,Facebook
+64,64,3/5/2023,10:30,Landing Page,210,Mobile,Firefox,Windows,Google
+65,65,3/6/2023,11:45,Homepage,260,Desktop,Safari,Android,Yahoo
+66,66,3/7/2023,12:00,Product Page,220,Tablet,Edge,Windows,Bing
+67,67,3/8/2023,13:15,Cart,250,Mobile,Opera,MacOS,Direct
+68,68,3/9/2023,14:30,Checkout,275,Desktop,Chrome,Windows,LinkedIn
+69,69,3/10/2023,15:45,Landing Page,230,Tablet,Firefox,iOS,Email
+70,70,3/11/2023,17:00,Homepage,200,Mobile,Safari,Windows,Twitter
+71,71,3/12/2023,18:15,Product Page,190,Desktop,Edge,MacOS,Facebook
+72,72,3/13/2023,19:30,Cart,245,Tablet,Chrome,Windows,Google
+73,73,3/14/2023,20:45,Checkout,220,Mobile,Firefox,Android,Bing
+74,74,3/15/2023,21:00,Landing Page,280,Desktop,Safari,Windows,LinkedIn
+75,75,3/16/2023,22:15,Homepage,195,Tablet,Edge,iOS,Direct
+76,76,3/17/2023,23:30,Product Page,250,Mobile,Opera,MacOS,Email
+77,77,3/18/2023,8:00,Cart,215,Desktop,Chrome,Windows,Twitter
+78,78,3/19/2023,9:15,Checkout,260,Tablet,Firefox,Windows,Yahoo
+79,79,3/20/2023,10:30,Landing Page,275,Mobile,Safari,Android,Google
+80,80,3/21/2023,11:45,Homepage,230,Desktop,Edge,Windows,Facebook
+81,81,3/22/2023,12:00,Product Page,250,Tablet,Chrome,iOS,Bing
+82,82,3/23/2023,13:15,Cart,200,Mobile,Firefox,Windows,LinkedIn
+83,83,3/24/2023,14:30,Checkout,195,Desktop,Safari,MacOS,Direct
+84,84,3/25/2023,15:45,Landing Page,275,Tablet,Edge,Android,Email
+85,85,3/26/2023,17:00,Homepage,220,Mobile,Chrome,Windows,Twitter
+86,86,3/27/2023,18:15,Product Page,290,Desktop,Firefox,Windows,Google
+87,87,3/28/2023,19:30,Cart,260,Tablet,Safari,Android,Bing
+88,88,3/29/2023,20:45,Checkout,225,Mobile,Edge,MacOS,LinkedIn
+89,89,3/30/2023,21:00,Landing Page,190,Desktop,Chrome,Windows,Facebook
+90,90,3/31/2023,22:15,Homepage,245,Tablet,Firefox,iOS,Yahoo
+91,91,4/1/2023,23:30,Product Page,230,Mobile,Safari,Windows,Google
+92,92,4/2/2023,8:00,Cart,195,Desktop,Edge,MacOS,Direct
+93,93,4/3/2023,9:15,Checkout,275,Tablet,Chrome,Windows,Email
+94,94,4/4/2023,10:30,Landing Page,220,Mobile,Firefox,Android,Twitter
+95,95,4/5/2023,11:45,Homepage,285,Desktop,Safari,Windows,Facebook
+96,96,4/6/2023,12:00,Product Page,230,Tablet,Edge,iOS,LinkedIn
+97,97,4/7/2023,13:15,Cart,260,Mobile,Opera,MacOS,Google
+98,98,4/8/2023,14:30,Checkout,190,Desktop,Chrome,Windows,Bing
+99,99,4/9/2023,15:45,Landing Page,215,Tablet,Firefox,Android,Direct
+100,100,4/10/2023,17:00,Homepage,245,Mobile,Safari,Windows,Email
+101,101,4/11/2023,18:15,Product Page,250,Desktop,Edge,MacOS,Twitter
+102,102,4/12/2023,19:30,Cart,220,Tablet,Chrome,Windows,Facebook
+103,103,4/13/2023,20:45,Checkout,200,Mobile,Firefox,iOS,Yahoo
+104,104,4/14/2023,21:00,Landing Page,285,Desktop,Safari,Windows,Google
+105,105,4/15/2023,22:15,Homepage,245,Tablet,Edge,Android,Direct
+106,106,4/16/2023,23:30,Product Page,190,Mobile,Chrome,Windows,LinkedIn
+107,107,4/17/2023,8:00,Cart,275,Desktop,Firefox,MacOS,Email
+108,108,4/18/2023,9:15,Checkout,230,Tablet,Safari,Windows,Twitter
+109,109,4/19/2023,10:30,Landing Page,195,Mobile,Edge,Windows,Facebook
+110,110,4/20/2023,11:45,Homepage,280,Desktop,Chrome,MacOS,Google
+111,111,4/21/2023,12:00,Product Page,260,Tablet,Firefox,Windows,Yahoo
+112,112,4/22/2023,13:15,Cart,215,Mobile,Safari,Android,Bing
+113,113,4/23/2023,14:30,Checkout,190,Desktop,Edge,Windows,Direct
+114,114,4/24/2023,15:45,Landing Page,275,Tablet,Chrome,Windows,LinkedIn
+115,115,4/25/2023,17:00,Homepage,260,Mobile,Firefox,iOS,Email
+116,116,4/26/2023,18:15,Product Page,220,Desktop,Safari,MacOS,Twitter
+117,117,4/27/2023,19:30,Cart,200,Tablet,Edge,Windows,Facebook
+118,118,4/28/2023,20:45,Checkout,245,Mobile,Chrome,Android,Google
+119,119,4/29/2023,21:00,Landing Page,275,Desktop,Firefox,Windows,Direct
+120,120,4/30/2023,22:15,Homepage,250,Tablet,Safari,MacOS,Bing
+121,121,5/1/2023,23:30,Product Page,220,Mobile,Edge,Windows,Yahoo
+122,122,5/2/2023,8:00,Cart,290,Desktop,Chrome,Android,LinkedIn
+123,123,5/3/2023,9:15,Checkout,260,Tablet,Firefox,Windows,Email
+124,124,5/4/2023,10:30,Landing Page,190,Mobile,Safari,iOS,Google
+125,125,5/5/2023,11:45,Homepage,275,Desktop,Edge,MacOS,Direct
+126,126,5/6/2023,12:00,Product Page,240,Tablet,Chrome,Windows,Twitter
+127,127,5/7/2023,13:15,Cart,210,Mobile,Firefox,Windows,Facebook
+128,128,5/8/2023,14:30,Checkout,230,Desktop,Safari,Windows,Bing
+129,129,5/9/2023,15:45,Landing Page,275,Tablet,Edge,iOS,LinkedIn
+130,130,5/10/2023,17:00,Homepage,220,Mobile,Chrome,MacOS,Email
+131,131,5/11/2023,18:15,Product Page,250,Desktop,Firefox,Windows,Google
+132,132,5/12/2023,19:30,Cart,275,Tablet,Safari,Windows,Direct
+133,133,5/13/2023,20:45,Checkout,190,Mobile,Edge,Android,LinkedIn
+134,134,5/14/2023,21:00,Landing Page,240,Desktop,Chrome,MacOS,Twitter
+135,135,5/15/2023,22:15,Homepage,280,Tablet,Firefox,Windows,Facebook
+136,136,5/16/2023,23:30,Product Page,200,Mobile,Safari,Windows,Yahoo
+137,137,5/17/2023,8:00,Cart,195,Desktop,Edge,Windows,Google
+138,138,5/18/2023,9:15,Checkout,250,Tablet,Chrome,Android,Direct
+139,139,5/19/2023,10:30,Landing Page,220,Mobile,Firefox,Windows,Bing
+140,140,5/20/2023,11:45,Homepage,275,Desktop,Safari,MacOS,Email
+141,141,5/21/2023,12:00,Product Page,230,Tablet,Edge,Windows,LinkedIn
+142,142,5/22/2023,13:15,Cart,275,Mobile,Chrome,iOS,Google
+143,143,5/23/2023,14:30,Checkout,220,Desktop,Firefox,Windows,Twitter
+144,144,5/24/2023,15:45,Landing Page,260,Tablet,Safari,Windows,Facebook
+145,145,5/25/2023,17:00,Homepage,240,Mobile,Edge,Windows,Bing
+146,146,5/26/2023,18:15,Product Page,220,Desktop,Chrome,MacOS,Email
+147,147,5/27/2023,19:30,Cart,260,Tablet,Firefox,iOS,Google
+148,148,5/28/2023,20:45,Checkout,225,Mobile,Safari,Android,Direct
+149,149,5/29/2023,21:00,Landing Page,190,Desktop,Edge,Windows,LinkedIn
+150,150,5/30/2023,22:15,Homepage,245,Tablet,Chrome,MacOS,Facebook
+151,151,5/31/2023,23:30,Product Page,220,Mobile,Firefox,Windows,Yahoo
+152,152,6/1/2023,8:00,Cart,290,Desktop,Safari,iOS,Bing
+153,153,6/2/2023,9:15,Checkout,260,Tablet,Edge,Android,LinkedIn
+154,154,6/3/2023,10:30,Landing Page,190,Mobile,Chrome,Windows,Google
+155,155,6/4/2023,11:45,Homepage,275,Desktop,Firefox,MacOS,Direct
+156,156,6/5/2023,12:00,Product Page,240,Tablet,Safari,Windows,Twitter
+157,157,6/6/2023,13:15,Cart,210,Mobile,Edge,iOS,Facebook
+158,158,6/7/2023,14:30,Checkout,230,Desktop,Chrome,Android,Bing
+159,159,6/8/2023,15:45,Landing Page,275,Tablet,Firefox,Windows,Email
+160,160,6/9/2023,17:00,Homepage,220,Mobile,Safari,Android,Twitter
+161,161,6/10/2023,18:15,Product Page,190,Desktop,Edge,MacOS,Facebook
+162,162,6/11/2023,19:30,Cart,245,Tablet,Chrome,Windows,Google
+163,163,6/12/2023,20:45,Checkout,220,Mobile,Firefox,Android,LinkedIn
+164,164,6/13/2023,21:00,Landing Page,280,Desktop,Safari,Windows,Direct
+165,165,6/14/2023,22:15,Homepage,195,Tablet,Edge,iOS,Email
+166,166,6/15/2023,23:30,Product Page,230,Mobile,Opera,MacOS,Google
+167,167,6/16/2023,8:00,Cart,250,Desktop,Chrome,Windows,Facebook
+168,168,6/17/2023,9:15,Checkout,190,Tablet,Firefox,iOS,Yahoo
+169,169,6/18/2023,10:30,Landing Page,270,Mobile,Safari,Windows,Bing
+170,170,6/19/2023,11:45,Homepage,230,Desktop,Edge,iOS,Direct
+171,171,6/20/2023,12:00,Product Page,250,Tablet,Chrome,Android,Google
+172,172,6/21/2023,13:15,Cart,215,Mobile,Firefox,Windows,LinkedIn
+173,173,6/22/2023,14:30,Checkout,280,Desktop,Safari,MacOS,Email
+174,174,6/23/2023,15:45,Landing Page,200,Tablet,Edge,Windows,Twitter
+175,175,6/24/2023,17:00,Homepage,290,Mobile,Chrome,Android,Facebook
+176,176,6/25/2023,18:15,Product Page,215,Desktop,Firefox,Windows,Yahoo
+177,177,6/26/2023,19:30,Cart,205,Tablet,Safari,iOS,Google
+178,178,6/27/2023,20:45,Checkout,220,Mobile,Edge,MacOS,Direct
+179,179,6/28/2023,21:00,Landing Page,285,Desktop,Chrome,iOS,Yahoo
+180,180,6/29/2023,22:15,Homepage,225,Tablet,Firefox,Windows,Twitter
+181,181,6/30/2023,23:30,Product Page,245,Mobile,Safari,Android,LinkedIn
+182,182,7/1/2023,8:00,Cart,190,Desktop,Edge,MacOS,Email
+183,183,7/2/2023,9:15,Checkout,275,Tablet,Chrome,Windows,Google
+184,184,7/3/2023,10:30,Landing Page,225,Mobile,Firefox,iOS,Direct
+185,185,7/4/2023,11:45,Homepage,260,Desktop,Safari,Android,Bing
+186,186,7/5/2023,12:00,Product Page,210,Tablet,Edge,Windows,Yahoo
+187,187,7/6/2023,13:15,Cart,200,Mobile,Opera,MacOS,Twitter
+188,188,7/7/2023,14:30,Checkout,190,Desktop,Chrome,Android,LinkedIn
+189,189,7/8/2023,15:45,Landing Page,285,Tablet,Firefox,Windows,Facebook
+190,190,7/9/2023,17:00,Homepage,230,Mobile,Safari,iOS,Google
+191,191,7/10/2023,18:15,Product Page,220,Desktop,Edge,MacOS,Direct
+192,192,7/11/2023,19:30,Cart,260,Tablet,Chrome,Windows,Bing
+193,193,7/12/2023,20:45,Checkout,275,Mobile,Firefox,Android,Email
+194,194,7/13/2023,21:00,Landing Page,245,Desktop,Safari,Windows,Google
+195,195,7/14/2023,22:15,Homepage,195,Tablet,Edge,iOS,LinkedIn
+196,196,7/15/2023,23:30,Product Page,230,Mobile,Opera,MacOS,Twitter
+197,197,7/16/2023,8:00,Cart,250,Desktop,Chrome,Windows,Facebook
+198,198,7/17/2023,9:15,Checkout,190,Tablet,Firefox,Android,Yahoo
+199,199,7/18/2023,10:30,Landing Page,270,Mobile,Safari,Windows,Bing
+200,200,7/19/2023,11:45,Homepage,230,Desktop,Edge,iOS,Direct

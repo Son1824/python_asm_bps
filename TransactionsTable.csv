@@ -1,0 +1,201 @@
+TransactionID,CustomerID,ProductID,Date,Quantity,Price,TotalPrice,PaymentMethod,StoreLocation,Salesperson
+1,1,1,1/1/2023,2,500,1000,Credit Card,New York,John Doe
+2,2,2,1/2/2023,1,1000,1000,Cash,Los Angeles,Jane Smith
+3,3,3,1/3/2023,3,300,900,Debit Card,Chicago,Jim Brown
+4,4,4,1/4/2023,4,200,800,PayPal,Houston,Anna Williams
+5,5,5,1/5/2023,1,700,700,Credit Card,Philadelphia,Robert Brown
+6,6,6,1/6/2023,2,250,500,Cash,Phoenix,Linda Davis
+7,7,7,1/7/2023,3,50,150,Debit Card,San Antonio,Michael Johnson
+8,8,8,1/8/2023,1,30,30,PayPal,San Diego,Patricia Miller
+9,9,9,1/9/2023,2,150,300,Credit Card,Dallas,Charles Wilson
+10,10,10,1/10/2023,3,100,300,Cash,San Jose,Elizabeth Jones
+11,11,11,1/11/2023,5,80,400,Debit Card,Austin,Barbara Garcia
+12,12,12,1/12/2023,2,150,300,PayPal,Jacksonville,Daniel Martinez
+13,13,13,1/13/2023,4,100,400,Credit Card,San Francisco,Emma Davis
+14,14,14,1/14/2023,1,70,70,Cash,Indianapolis,John Doe
+15,15,15,1/15/2023,3,120,360,Debit Card,Columbus,Jane Smith
+16,16,16,1/16/2023,2,25,50,PayPal,Fort Worth,Jim Brown
+17,17,17,1/17/2023,4,10,40,Credit Card,Charlotte,Anna Williams
+18,18,18,1/18/2023,1,50,50,Cash,Detroit,Robert Brown
+19,19,19,1/19/2023,3,400,1200,Debit Card,El Paso,Linda Davis
+20,20,20,1/20/2023,2,600,1200,PayPal,Memphis,Michael Johnson
+21,21,21,1/21/2023,4,300,1200,Credit Card,Boston,Patricia Miller
+22,22,22,1/22/2023,1,800,800,Cash,Seattle,Charles Wilson
+23,23,23,1/23/2023,2,350,700,Debit Card,Denver,Elizabeth Jones
+24,24,24,1/24/2023,3,200,600,PayPal,Washington,Barbara Garcia
+25,25,25,1/25/2023,1,100,100,Credit Card,Nashville,Daniel Martinez
+26,26,26,1/26/2023,5,150,750,Cash,Baltimore,Emma Davis
+27,27,27,1/27/2023,4,75,300,Debit Card,Louisville,John Doe
+28,28,28,1/28/2023,2,100,200,PayPal,Portland,Jane Smith
+29,29,29,1/29/2023,1,30,30,Credit Card,Oklahoma City,Jim Brown
+30,30,30,1/30/2023,3,70,210,Cash,Milwaukee,Anna Williams
+31,31,31,1/31/2023,4,80,320,Debit Card,Las Vegas,Robert Brown
+32,32,32,2/1/2023,1,60,60,PayPal,Albuquerque,Linda Davis
+33,33,33,2/2/2023,2,40,80,Credit Card,Tucson,Michael Johnson
+34,34,34,2/3/2023,3,100,300,Cash,Fresno,Patricia Miller
+35,35,35,2/4/2023,4,150,600,Debit Card,Sacramento,Charles Wilson
+36,36,36,2/5/2023,2,800,1600,PayPal,Mesa,Elizabeth Jones
+37,37,37,2/6/2023,1,1000,1000,Credit Card,Kansas City,Barbara Garcia
+38,38,38,2/7/2023,5,40,200,Cash,Atlanta,Daniel Martinez
+39,39,39,2/8/2023,3,200,600,Debit Card,Omaha,Emma Davis
+40,40,40,2/9/2023,4,120,480,PayPal,Miami,John Doe
+41,41,41,2/10/2023,1,30,30,Credit Card,Tulsa,Jane Smith
+42,42,42,2/11/2023,2,15,30,Cash,Wichita,Jim Brown
+43,43,43,2/12/2023,3,50,150,Debit Card,New Orleans,Anna Williams
+44,44,44,2/13/2023,4,20,80,PayPal,Arlington,Robert Brown
+45,45,45,2/14/2023,2,25,50,Credit Card,Cleveland,Linda Davis
+46,46,46,2/15/2023,1,200,200,Cash,Tampa,Michael Johnson
+47,47,47,2/16/2023,5,120,600,Debit Card,Aurora,Patricia Miller
+48,48,48,2/17/2023,3,150,450,PayPal,Honolulu,Charles Wilson
+49,49,49,2/18/2023,4,30,120,Credit Card,Lexington,Elizabeth Jones
+50,50,50,2/19/2023,2,300,600,Cash,Stockton,Barbara Garcia
+51,51,51,2/20/2023,1,50,50,Debit Card,Corpus Christi,Daniel Martinez
+52,52,52,2/21/2023,3,60,180,PayPal,Henderson,Emma Davis
+53,53,53,2/22/2023,4,80,320,Credit Card,Riverside,John Doe
+54,54,54,2/23/2023,2,100,200,Cash,Saint Paul,Jane Smith
+55,55,55,2/24/2023,1,150,150,Debit Card,Cincinnati,Jim Brown
+56,56,56,2/25/2023,5,40,200,PayPal,Anchorage,Anna Williams
+57,57,57,2/26/2023,3,30,90,Credit Card,Toledo,Robert Brown
+58,58,58,2/27/2023,2,120,240,Cash,Newark,Linda Davis
+59,59,59,2/28/2023,1,800,800,Debit Card,Greensboro,Michael Johnson
+60,60,60,3/1/2023,4,500,2000,PayPal,Plano,Patricia Miller
+61,61,1,3/2/2023,3,500,1500,Credit Card,Lincoln,Charles Wilson
+62,62,2,3/3/2023,2,1000,2000,Cash,Orlando,Elizabeth Jones
+63,63,3,3/4/2023,1,300,300,Debit Card,Durham,Barbara Garcia
+64,64,4,3/5/2023,5,200,1000,PayPal,Irvine,Daniel Martinez
+65,65,5,3/6/2023,4,700,2800,Credit Card,St. Petersburg,Emma Davis
+66,66,6,3/7/2023,2,250,500,Cash,Chula Vista,John Doe
+67,67,7,3/8/2023,1,50,50,Debit Card,Fort Wayne,Jane Smith
+68,68,8,3/9/2023,3,30,90,PayPal,Laredo,Jim Brown
+69,69,9,3/10/2023,4,150,600,Credit Card,Chandler,Anna Williams
+70,70,10,3/11/2023,2,100,200,Cash,North Las Vegas,Robert Brown
+71,71,11,3/12/2023,1,80,80,Debit Card,Reno,Jim Brown
+72,72,12,3/13/2023,5,150,750,PayPal,Irving,Anna Williams
+73,73,13,3/14/2023,3,100,300,Credit Card,Glendale,Robert Brown
+74,74,14,3/15/2023,2,70,140,Cash,Garland,Linda Davis
+75,75,15,3/16/2023,4,120,480,Debit Card,Richmond,Michael Johnson
+76,76,16,3/17/2023,1,25,25,PayPal,Baton Rouge,Patricia Miller
+77,77,17,3/18/2023,2,10,20,Credit Card,Boise,Charles Wilson
+78,78,18,3/19/2023,3,50,150,Cash,Des Moines,Elizabeth Jones
+79,79,19,3/20/2023,4,400,1600,Debit Card,Spokane,Barbara Garcia
+80,80,20,3/21/2023,1,600,600,PayPal,Modesto,Daniel Martinez
+81,81,21,3/22/2023,2,300,600,Credit Card,Akron,Emma Davis
+82,82,22,3/23/2023,3,800,2400,Cash,Montgomery,John Doe
+83,83,23,3/24/2023,5,350,1750,Debit Card,Augusta,Jane Smith
+84,84,24,3/25/2023,1,200,200,PayPal,Little Rock,Jim Brown
+85,85,25,3/26/2023,2,100,200,Credit Card,Mobile,Anna Williams
+86,86,26,3/27/2023,4,150,600,Cash,Huntsville,Robert Brown
+87,87,27,3/28/2023,3,75,225,Debit Card,Tallahassee,Linda Davis
+88,88,28,3/29/2023,1,100,100,PayPal,Grand Rapids,Michael Johnson
+89,89,29,3/30/2023,2,30,60,Credit Card,Knoxville,Patricia Miller
+90,90,30,3/31/2023,3,70,210,Cash,Worcester,Charles Wilson
+91,91,31,4/1/2023,5,80,400,Debit Card,Newport News,Elizabeth Jones
+92,92,32,4/2/2023,1,60,60,PayPal,Brownsville,Barbara Garcia
+93,93,33,4/3/2023,4,40,160,Credit Card,Overland Park,Daniel Martinez
+94,94,34,4/4/2023,3,100,300,Cash,Santa Clarita,Emma Davis
+95,95,35,4/5/2023,2,150,300,Debit Card,Providence,John Doe
+96,96,36,4/6/2023,1,800,800,PayPal,Fort Lauderdale,Jane Smith
+97,97,37,4/7/2023,5,1000,5000,Credit Card,Chattanooga,Jim Brown
+98,98,38,4/8/2023,3,40,120,Cash,Tempe,Anna Williams
+99,99,39,4/9/2023,4,200,800,Debit Card,Oceanside,Robert Brown
+100,100,40,4/10/2023,1,120,120,PayPal,Garden Grove,Linda Davis
+101,101,41,4/11/2023,2,30,60,Credit Card,Sioux Falls,Michael Johnson
+102,102,42,4/12/2023,3,15,45,Cash,Ontario,Patricia Miller
+103,103,43,4/13/2023,4,50,200,Debit Card,Vancouver,Charles Wilson
+104,104,44,4/14/2023,1,20,20,PayPal,Pomona,Elizabeth Jones
+105,105,45,4/15/2023,5,25,125,Credit Card,Peoria,Barbara Garcia
+106,106,46,4/16/2023,2,200,400,Cash,Springfield,Daniel Martinez
+107,107,47,4/17/2023,3,120,360,Debit Card,Joliet,Emma Davis
+108,108,48,4/18/2023,4,150,600,PayPal,Paterson,John Doe
+109,109,49,4/19/2023,1,30,30,Credit Card,Rockford,Jane Smith
+110,110,50,4/20/2023,2,300,600,Cash,Torrance,Jim Brown
+111,111,51,4/21/2023,3,50,150,Debit Card,Bridgeport,Anna Williams
+112,112,52,4/22/2023,5,60,300,PayPal,McAllen,Robert Brown
+113,113,53,4/23/2023,4,80,320,Credit Card,Savannah,Linda Davis
+114,114,54,4/24/2023,1,100,100,Cash,Syracuse,Michael Johnson
+115,115,55,4/25/2023,3,150,450,Debit Card,Corona,Patricia Miller
+116,116,56,4/26/2023,2,40,80,PayPal,Midland,Charles Wilson
+117,117,57,4/27/2023,4,30,120,Credit Card,Pasadena,Elizabeth Jones
+118,118,58,4/28/2023,1,120,120,Cash,Murfreesboro,Barbara Garcia
+119,119,59,4/29/2023,5,800,4000,Debit Card,Miramar,Daniel Martinez
+120,120,60,4/30/2023,3,500,1500,PayPal,Dayton,Emma Davis
+121,121,1,5/1/2023,2,500,1000,Credit Card,Fullerton,John Doe
+122,122,2,5/2/2023,4,1000,4000,Cash,Olathe,Jane Smith
+123,123,3,5/3/2023,1,300,300,Debit Card,Orange,Jim Brown
+124,124,4,5/4/2023,3,200,600,PayPal,Thornton,Anna Williams
+125,125,5,5/5/2023,2,700,1400,Credit Card,Roseville,Robert Brown
+126,126,6,5/6/2023,5,250,1250,Cash,Denton,Linda Davis
+127,127,7,5/7/2023,4,50,200,Debit Card,Waco,Michael Johnson
+128,128,8,5/8/2023,1,30,30,PayPal,Surprise,Patricia Miller
+129,129,9,5/9/2023,3,150,450,Credit Card,Carrollton,Charles Wilson
+130,130,10,5/10/2023,2,100,200,Cash,West Valley City,Elizabeth Jones
+131,131,11,5/11/2023,5,80,400,Debit Card,Charleston,Barbara Garcia
+132,132,12,5/12/2023,4,150,600,PayPal,Hampton,Daniel Martinez
+133,133,13,5/13/2023,1,100,100,Credit Card,Visalia,Emma Davis
+134,134,14,5/14/2023,2,70,140,Cash,Gainesville,John Doe
+135,135,15,5/15/2023,3,120,360,Debit Card,Coral Springs,Jane Smith
+136,136,16,5/16/2023,4,25,100,PayPal,Columbia,Jim Brown
+137,137,17,5/17/2023,5,10,50,Credit Card,Stamford,Anna Williams
+138,138,18,5/18/2023,2,50,100,Cash,Concord,Robert Brown
+139,139,19,5/19/2023,1,400,400,Debit Card,Thousand Oaks,Linda Davis
+140,140,20,5/20/2023,3,600,1800,PayPal,Elizabeth,Michael Johnson
+141,141,21,5/21/2023,4,300,1200,Credit Card,Lafayette,Patricia Miller
+142,142,22,5/22/2023,1,800,800,Cash,Killeen,Charles Wilson
+143,143,23,5/23/2023,2,350,700,Debit Card,Simi Valley,Elizabeth Jones
+144,144,24,5/24/2023,3,200,600,PayPal,Topeka,Barbara Garcia
+145,145,25,5/25/2023,4,100,400,Credit Card,Clovis,Daniel Martinez
+146,146,26,5/26/2023,5,150,750,Cash,Antioch,Emma Davis
+147,147,27,5/27/2023,1,75,75,Debit Card,El Monte,John Doe
+148,148,28,5/28/2023,2,100,200,PayPal,Springfield,Jane Smith
+149,149,29,5/29/2023,3,30,90,Credit Card,Peoria,Jim Brown
+150,150,30,5/30/2023,4,70,280,Cash,Evansville,Anna Williams
+151,151,31,5/31/2023,5,80,400,Debit Card,Thornton,Robert Brown
+152,152,32,6/1/2023,1,60,60,PayPal,Pasadena,Linda Davis
+153,153,33,6/2/2023,2,40,80,Credit Card,McKinney,Michael Johnson
+154,154,34,6/3/2023,3,100,300,Cash,Murfreesboro,Patricia Miller
+155,155,35,6/4/2023,4,150,600,Debit Card,Miramar,Charles Wilson
+156,156,36,6/5/2023,5,800,4000,PayPal,Westminster,Elizabeth Jones
+157,157,37,6/6/2023,1,1000,1000,Credit Card,Inglewood,Barbara Garcia
+158,158,38,6/7/2023,2,40,80,Cash,League City,Daniel Martinez
+159,159,39,6/8/2023,3,200,600,Debit Card,Santa Clara,Emma Davis
+160,160,40,6/9/2023,4,120,480,PayPal,El Cajon,John Doe
+161,161,41,6/10/2023,5,30,150,Credit Card,Burbank,Jane Smith
+162,162,42,6/11/2023,1,15,15,Cash,San Mateo,Jim Brown
+163,163,43,6/12/2023,2,50,100,Debit Card,Rialto,Anna Williams
+164,164,44,6/13/2023,3,20,60,PayPal,Davenport,Robert Brown
+165,165,45,6/14/2023,4,25,100,Credit Card,Hillsboro,Linda Davis
+166,166,46,6/15/2023,5,200,1000,Cash,Edison,Michael Johnson
+167,167,47,6/16/2023,1,120,120,Debit Card,Woodbridge,Patricia Miller
+168,168,48,6/17/2023,2,150,300,PayPal,San Angelo,Charles Wilson
+169,169,49,6/18/2023,3,30,90,Credit Card,Kenosha,Elizabeth Jones
+170,170,50,6/19/2023,4,300,1200,Cash,Biloxi,Barbara Garcia
+171,171,51,6/20/2023,5,50,250,Debit Card,Richmond,Daniel Martinez
+172,172,52,6/21/2023,1,60,60,PayPal,New Bedford,Emma Davis
+173,173,53,6/22/2023,2,80,160,Credit Card,Plymouth,John Doe
+174,174,54,6/23/2023,3,100,300,Cash,Bowie,Jane Smith
+175,175,55,6/24/2023,4,150,600,Debit Card,Goodyear,Jim Brown
+176,176,56,6/25/2023,5,40,200,PayPal,Apex,Anna Williams
+177,177,57,6/26/2023,1,30,30,Credit Card,Union City,Robert Brown
+178,178,58,6/27/2023,2,120,240,Cash,Lewisville,Linda Davis
+179,179,59,6/28/2023,3,800,2400,Debit Card,Dothan,Michael Johnson
+180,180,60,6/29/2023,4,500,2000,PayPal,Lodi,Patricia Miller
+181,181,1,6/30/2023,5,500,2500,Credit Card,Casper,Charles Wilson
+182,182,2,7/1/2023,1,1000,1000,Cash,Palm Bay,Elizabeth Jones
+183,183,3,7/2/2023,2,300,600,Debit Card,Muncie,Barbara Garcia
+184,184,4,7/3/2023,3,200,600,PayPal,Mansfield,Daniel Martinez
+185,185,5,7/4/2023,4,700,2800,Credit Card,Victoria,Emma Davis
+186,186,6,7/5/2023,5,250,1250,Cash,Merced,John Doe
+187,187,7,7/6/2023,1,50,50,Debit Card,Bentonville,Jane Smith
+188,188,8,7/7/2023,2,30,60,PayPal,Ankeny,Jim Brown
+189,189,9,7/8/2023,3,150,450,Credit Card,Redmond,Anna Williams
+190,190,10,7/9/2023,4,100,400,Cash,Georgetown,Robert Brown
+191,191,11,7/10/2023,5,80,400,Debit Card,Huntersville,Linda Davis
+192,192,12,7/11/2023,1,150,150,PayPal,Lombard,Michael Johnson
+193,193,13,7/12/2023,2,100,200,Credit Card,Elmhurst,Patricia Miller
+194,194,14,7/13/2023,3,70,210,Cash,Minot,Charles Wilson
+195,195,15,7/14/2023,4,120,480,Debit Card,Pflugerville,Elizabeth Jones
+196,196,16,7/15/2023,5,25,125,PayPal,Leander,Barbara Garcia
+197,197,17,7/16/2023,1,10,10,Credit Card,Newark,Daniel Martinez
+198,198,18,7/17/2023,2,50,100,Cash,Keller,Emma Davis
+199,199,19,7/18/2023,3,400,1200,Debit Card,Galveston,John Doe
+200,200,20,7/19/2023,4,600,2400,PayPal,New Brunswick,Jane Smith
